@@ -3,4 +3,34 @@ cursor_positions:
   - :path: config.ru
     :cursor_offset: 168
     :timestamp: 2012-04-20 20:07:56.129000 -03:00
+  - :path: script/rails
+    :cursor_offset: 0
+    :timestamp: 2012-04-20 20:07:57.601000 -03:00
+  - :path: test/test_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2012-04-20 20:07:57.631000 -03:00
+  - :path: README.rdoc
+    :cursor_offset: 5214
+    :timestamp: 2012-04-20 20:07:56.121000 -03:00
+  - :path: Rakefile
+    :cursor_offset: 0
+    :timestamp: 2012-04-20 20:07:56.125000 -03:00
+  - :path: Gemfile
+    :cursor_offset: 0
+    :timestamp: 2012-04-20 20:07:56.138000 -03:00
+  - :path: .gitignore
+    :cursor_offset: 0
+    :timestamp: 2012-04-20 20:07:56.133000 -03:00
+  - :path: app/controllers/welcome_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2012-04-24 18:19:33.415000 -03:00
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 42
+    :timestamp: 2012-04-24 18:21:51.076000 -03:00
+  - :path: config/routes.rb
+    :cursor_offset: 1476
+    :timestamp: 2012-05-08 17:38:47.507000 -03:00
+  - :path: Gemfile.lock
+    :cursor_offset: 1328
+    :timestamp: 2012-05-08 17:58:58.747000 -03:00
 files_to_retain: 0

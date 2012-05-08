@@ -1,3 +1,13 @@
 --- 
 open_files: 
   - config.ru
+  - script/rails
+  - test/test_helper.rb
+  - README.rdoc
+  - Rakefile
+  - Gemfile.lock
+  - Gemfile
+  - .gitignore
+  - config/routes.rb
+  - app/controllers/welcome_controller.rb
+  - app/views/welcome/index.html.erb
